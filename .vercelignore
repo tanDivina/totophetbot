@@ -1,0 +1,8 @@
+*.py
+*.sh
+*.command
+*.bat
+.env*
+*.pem
+*key*.json
+.kiro/
